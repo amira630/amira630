@@ -1,10 +1,10 @@
 <h1 align="center">
-Hi, I am Amira Atef
+Hi, I am Amira Atef!
 </h1>
 
 <br/>
 <p align="center">
-	My objective is to find an opportunity in the <b> Digital Electronic Circuits Design </b> field, as I hope my studies, education and projects in the mentioned major will allow me to make significant contributions at the company that I will join helping me achieving more progress and success.
+	My aim is to find an opportunity in the <b> Digital Electronic Circuits Design </b> field, as I hope my studies, education and projects in the mentioned major will allow me to make significant contributions at the company that I will join.
 </p>
 
 <hr>
@@ -19,16 +19,20 @@ Hi, I am Amira Atef
 
 
 ## 🔧 Tech Stack
-- 💻 Eclipse, Flutter, LabView, Matlab, Modelsim, Proteus, QuestaSim, Sublime, Visual Studio, Xcelium, Xilinx Vivado
-- 🧪 C, C++, COCOTB, Dart, Embedded C, MATLAB, SystemVerilog, Tcl Scripting, UVM, Verilog
+- 💻 QuestaSim, Xcelium, Xilinx Vivado,  Matlab, Modelsim, Sublime, Visual Studio, Eclipse, Flutter, Proteus 
+- 🧪 SystemVerilog, UVM, Verilog, COCOTB, MATLAB, Tcl Scripting, C, C++, Dart, Embedded C
 - 🔧 Git, GitHub
 - 🎨 draw.io, lucidchart, Markdown, Wavedrom
+
+## 📫 Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a.amiraelkomy00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-el-komy-0146ba220/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/amira630)
+
 
 ## 📌 Pinned Projects
 Check out some of my featured work below 👇
 
-## 📫 Connect with me
-[Gmail](mailto:a.amiraelkomy00@gmail.com) •
-[LinkedIn](https://www.linkedin.com/in/amira-el-komy-0146ba220/) • [GitHub](https://github.com/amira630)
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=amira630&color=blue) -->
