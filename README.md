@@ -30,10 +30,12 @@ Hi, I am Amira Atef!
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/amira630)
 
 <!-- 🐍 Light mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 
 ## 📌 Pinned Projects
