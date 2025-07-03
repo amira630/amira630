@@ -25,11 +25,32 @@ Hi, I am Amira Atef!
 
 ## 📫 Connect with me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:a.amiraelkomy00@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-el-komy-0146ba220/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/amira630)
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-![snake svg](https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake.svg)
+  <a href="mailto:a.amiraelkomy00@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/amira-el-komy-0146ba220/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/amira630" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+</div>
+
+
+
+<!-- 🐍 Light mode -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 
 ## 📌 Pinned Projects
 Check out some of my featured work below 👇
