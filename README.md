@@ -28,7 +28,7 @@ Hi, I am Amira Atef
 Check out some of my featured work below 👇
 
 ## 📫 Connect with me
-[Gmail](a.amiraelkomy00@gmail.com) •
+[Gmail](mailto:a.amiraelkomy00@gmail.com) •
 [LinkedIn](https://www.linkedin.com/in/amira-el-komy-0146ba220/) • [GitHub](https://github.com/amira630)
 
-![Profile Views](https://komarev.com/ghpvc/?username=amira630&color=blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=amira630&color=blue) -->
