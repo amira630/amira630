@@ -29,7 +29,12 @@ Hi, I am Amira Atef!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-el-komy-0146ba220/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/amira630)
 
-![snake svg](https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake.svg)
+<!-- 🐍 Light mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ## 📌 Pinned Projects
 Check out some of my featured work below 👇
