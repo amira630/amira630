@@ -26,17 +26,14 @@ Hi, I am Amira Atef!
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:a.amiraelkomy00@gmail.com">
+  <a href="mailto:a.amiraelkomy00@gmail.com" aria-label="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-    <span style="color: transparent;">Gmail</span>
   </a>
-  <a href="https://www.linkedin.com/in/amira-el-komy-0146ba220/">
+  <a href="https://www.linkedin.com/in/amira-el-komy-0146ba220/" aria-label="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-    <span style="color: transparent;">LinkedIn</span>
   </a>
-  <a href="https://github.com/amira630">
+  <a href="https://github.com/amira630" aria-label="GitHub">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub">
-    <span style="color: transparent;">GitHub</span>
   </a>
 </p>
 
