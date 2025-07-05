@@ -39,15 +39,31 @@ Hi, I am Amira Atef!
   </picture>
 </div>
 
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amira630&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amira630&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amira630&show_icons=true&count_private=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amira630&show_icons=true&count_private=true&theme=default" height="150" alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amira630&layout=compact&card_width=320&langs_count=5&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amira630&layout=compact&card_width=320&langs_count=5&theme=default" height="150" alt="Top Languages" />
+  </picture>
+
 </div>
 
 ###
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amira630&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amira630&theme=dracula" />
+    <img src="https://streak-stats.demolab.com?user=amira630&theme=default" height="150" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ###
