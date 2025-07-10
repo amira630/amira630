@@ -34,8 +34,8 @@ Hi, I am Amira Atef!
 <!-- 🐍 Light mode -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub Contribution Snake" src="https://github.com/amira630/amira630/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amira630/amira630/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/amira630/amira630/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
