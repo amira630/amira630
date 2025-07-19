@@ -4,7 +4,7 @@ Hi, I am Amira Atef!
 
 <br/>
 <p align="center">
-	My aim is to find an opportunity in the <b> Digital Electronic Circuits Design </b> field, as I hope my studies, education and projects in the mentioned major will allow me to make significant contributions at the company that I will join.
+	My aim is to find an opportunity in the <b> Digital IC Design </b> field, as I hope my studies, education and projects in the mentioned major will allow me to make significant contributions at the company that I will join.
 </p>
 
 <hr>
