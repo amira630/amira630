@@ -4,14 +4,14 @@ Hi, I am Amira Atef!
 
 <br/>
 <p align="center">
-	My aim is to find an opportunity in the <b> Digital IC Design </b> field, as I hope my studies, education and projects in the mentioned major will allow me to make significant contributions at the company that I will join.
+	My aim is to find a job opportunity in the <b> Digital IC Design </b> field.
 </p>
 
 <hr>
 
 <pre>
-📚 I am a fresh graduate from Cairo University - Faculty of Electronics and Electrical Communcations Engineering
-📝 I have a strong interest in Digital Electronics Design (FPGA, ASIC and system-level modelling) and Digital Verification.
+📚 I am a fresh graduate from Cairo University - Faculty of Electronics and Electrical Communcations Engineering.
+📝 I have a strong interest in Digital Electronics Design (FPGA, ASIC (FE & BE) and system-level modelling) and Digital Verification.
 🌟 Main languages: SystemVerilog, Verilog, C, C++, Python and MATLAB.
 🤔 I’m currently available for: <b>An Intern</b> or a new <b>job opportunity</b>.
 </pre>
