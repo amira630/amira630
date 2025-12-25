@@ -13,7 +13,7 @@ Hi, I am Amira Atef!
 📚 I am a fresh graduate from Cairo University - Faculty of Electronics and Electrical Communcations Engineering.
 📝 I have a strong interest in Digital Electronics Design (FPGA, ASIC (FE & BE) and system-level modelling) and Digital Verification.
 🌟 Main languages: SystemVerilog, Verilog, C, C++, Python and MATLAB.
-🤔 I’m currently available for: <b>An Intern</b> or a new <b>job opportunity</b>.
+🤔 I’m currently available for: An <b>internship</b> or a new <b>job opportunity</b>.
 </pre>
 <hr>
 
