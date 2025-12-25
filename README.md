@@ -44,13 +44,13 @@ Hi, I am Amira Atef!
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amira630&show_icons=true&count_private=true&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api?username=amira630&show_icons=true&count_private=true&theme=default" height="150" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amira630&theme=darcula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amira630&theme=vue" height="150" alt="GitHub Stats" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amira630&layout=compact&card_width=320&langs_count=5&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amira630&layout=compact&card_width=320&langs_count=5&theme=default" height="150" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amira630&theme=darcula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amira630&theme=vue" height="150" alt="Top Languages" />
   </picture>
 
 </div>
