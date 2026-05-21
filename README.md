@@ -1,11 +1,11 @@
 <h1 align="center">
-Hi, I am Amira Atef!
+Hi, I'm Amira Atef!
 </h1>
 
 <br/>
 <p align="center">
-	I enjoy learning, especiallly in the <b> Digital IC Design </b>, <b> Design Verification </b> and <b> Physical Design </b> fields.
-	I am highly interested in <b> Advanced Computer Architecture </b>.
+	I enjoy learning, especially in the <b> Digital IC Design</b>, <b> Design Verification</b> and <b> Physical Design </b> fields.
+	I am also highly interested in <b> Advanced Computer Architecture</b>.
 </p>
 
 <hr>
