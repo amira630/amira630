@@ -4,7 +4,8 @@ Hi, I am Amira Atef!
 
 <br/>
 <p align="center">
-	My aim is to find a job opportunity in the <b> Digital IC Design </b> field.
+	I enjoy learning, especiallly in the <b> Digital IC Design </b>, <b> Design Verification </b> and <b> Physical Design </b> fields.
+	I am highly interested in <b> Advanced Computer Architecture </b>.
 </p>
 
 <hr>
@@ -18,7 +19,7 @@ Hi, I am Amira Atef!
 <hr>
 
 ## 🔧 Tech Stack
-- 💻 QuestaSim, Xcelium, Xilinx Vivado,  Matlab, Modelsim, Sublime, Visual Studio, Eclipse, Flutter, Proteus 
+- 💻 QuestaSim, Xcelium, Xilinx Vivado,  Matlab, Modelsim, Visual Studio, Eclipse, Flutter, Proteus, Design Compiler
 - 🧪 SystemVerilog, UVM, Verilog, COCOTB, MATLAB, Tcl Scripting, C, C++, Dart, Embedded C
 - 🔧 Git, GitHub
 - 🎨 draw.io, lucidchart, Markdown, Wavedrom
